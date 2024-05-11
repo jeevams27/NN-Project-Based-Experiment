@@ -29,8 +29,8 @@ Visualize the training/validation loss and accuracy over epochs to understand th
 
 # Program:
 ```
-Developed by: Paul Andrew D
-Register no: 212221230075
+Developed by: Jeeva M S
+Register no: 212221230040
 ```
 ```
 import numpy as np
